@@ -1,0 +1,25 @@
+[
+        
+    {"subcategory":"Bedroom"},
+    {"subcategory":"Study-room"},
+    {"subcategory":"Kids-room"},
+    {"subcategory":"Playroom"},
+    {"subcategory":"Dinning-room"},
+    {"subcategory":"Family-room"},
+    {"subcategory":"Living-room"},
+    {"subcategory":"Guestroom"},
+    {"subcategory":"Laundry-room"},
+    {"subcategory":"Entrance-Hall"},
+    {"subcategory":"Kitchen"},
+    {"subcategory":"Bathroom"},
+    {"subcategory":"Home-library"},
+    {"subcategory":"Home-Office"},
+    {"subcategory":"Home-Gym"},
+    {"subcategory":"Walk in closet"},
+    {"subcategory":"Storage-room"},
+    {"subcategory":"Music-room"},
+    {"subcategory":"Gaming-room"},
+    {"subcategory":"Basement"},
+    {"subcategory":"Garage"}
+    
+  ]

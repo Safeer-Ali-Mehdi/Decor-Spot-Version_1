@@ -1,0 +1,7 @@
+[
+        
+    {"imagePath": "require('../../assets/Images/Furniture.jpg')","name":"Furniture"},
+    {"imagePath":"require('../../assets/Images/Fabric.jpg)","name":"Fabric Material"},
+    {"imagePath":"require('../../assets/Images/DecorationAccessories.jpg)","name":"Decoration Accessories"},
+    {"imagePath":"require('../../assets/Images/DecoratedCoverings.jpeg)","name":"Decorated Coverings"}
+  ]
